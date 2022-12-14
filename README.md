@@ -35,7 +35,7 @@ Additionaly the mutator can also be configured to include presents of your choic
 SpawnIntervalMin=25.00000  ;Min time for spawning a present
 SpawnIntervalMax=45.00000  ;Max time for spawning a present
 
-// List of present inventory classes, you can add weapons to this too.
+; A classes list of presents to pick from, any inventory class can be added, including Weapons!
 Presents=MUTXMasPresents.SantaPowerUp
 Presents=UTGameContent.UTBerserk
 Presents=UTGameContent.UTInvisibility
